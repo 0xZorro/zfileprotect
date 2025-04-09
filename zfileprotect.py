@@ -1,7 +1,7 @@
 # ============================================
 # zfileprotect - File Protection Tool
 # ============================================
-# Author: 0xZorro
+# Author:  Jose Luis Ocana (GitHub: 0xZorro)
 # Created: 2025-04-07
 # Description: A Python tool to protect Word, PDF, and Excel files with a password.
 #              Supports manual and automatic password generation, and can process

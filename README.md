@@ -77,7 +77,8 @@ Please ensure that any contributions follow the code of conduct and project stan
 
 Created by Jose Luis Ocana
 
-GitHub: [0xZorro](https://github.com/0xZorro)
-Cybersecurity Learner | Python & C++ Tools  
+Cybersecurity Learner | Python & C++ Tools 
+
+GitHub: [0xZorro](https://github.com/0xZorro) 
 TryHackMe: [https://tryhackme.com/p/0xZorro](https://tryhackme.com/p/0xZorro)  
 Contact: zorro.jose@gmx.de

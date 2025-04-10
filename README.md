@@ -11,7 +11,8 @@
 
 ## Motivation
 
-This project was created as a learning exercise in **cybersecurity**. Inspired by a **cybersecurity textbook**, the goal was to practice building practical tools that enhance data security, specifically focusing on **file encryption** and **password protection**.
+This project was created as a learning exercise in **cybersecurity**.  
+Inspired by the book **"Ethical Hacking" by Florian André Dalwick**, the goal was to practice building practical tools that improve data protection — with a particular focus on **file encryption** and **password-based security**.
 
 ## Requirements
 

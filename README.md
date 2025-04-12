@@ -106,11 +106,11 @@ ausdrücklich die Berechtigung hast. **Der Autor übernimmt keine Haftung für M
 
 ---
 
-# Haftungsausschluss
+## Haftungsausschluss
 
 Der Autor übernimmt **keinerlei Verantwortung oder Haftung** für Schäden, Datenverluste, Missbrauch oder rechtliche Konsequenzen, die aus der Nutzung dieser Software resultieren.
 
-Die Nutzung erfolgt **auf eigene Gefahr**. 
+Die Nutzung erfolgt ***auf eigene Gefahr***. 
 
 ---
 

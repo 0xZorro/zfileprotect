@@ -114,6 +114,8 @@ ausdrücklich die Berechtigung hast. **Der Autor übernimmt keine Haftung für M
 
 Der Autor übernimmt **keinerlei Verantwortung oder Haftung** für Schäden, Datenverluste, Missbrauch oder rechtliche Konsequenzen, die aus der Nutzung dieser Software resultieren.
 
+
+
 <p align="center">
   <img src="brand.png" alt="by 0xZorro" width="120"/>
 </p>

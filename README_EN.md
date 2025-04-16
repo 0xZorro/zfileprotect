@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="Banner.png" alt="zfileprotect" width="300"/>
+</p>
+
 # zfileprotect
 
 **zfileprotect** is a Python tool designed to protect Word, PDF, and Excel files with a password. It supports both manual password input and automatic password generation. This tool also allows you to process multiple files and entire directories in one go.

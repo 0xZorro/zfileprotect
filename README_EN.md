@@ -90,3 +90,10 @@ TryHackMe: https://tryhackme.com/p/0xZorro
 
 Contact: zorro.jose@gmx.de
 
+---
+
+<p align="center">
+  <img src="brand.png" alt="by 0xZorro" width="120"/>
+</p>
+
+---

@@ -118,8 +118,12 @@ Die Nutzung erfolgt ***auf eigene Gefahr***.
 ---
 
 <p align="center">
-  <img src="brand.png" alt="by 0xZorro" width="120"/>
-   <sub>© 2025 0xZorro</sub>
+  <div>
+    <img src="brand.png" alt="by 0xZorro" width="120"/>
+  </div>
+  <div>
+    <sub>© 2025 0xZorro</sub>
+  </div>
 </p>
 
 ---

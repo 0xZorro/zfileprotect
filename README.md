@@ -117,14 +117,11 @@ Die Nutzung erfolgt ***auf eigene Gefahr***.
 
 ---
 
-<p align="center">
-  <div>
-    <img src="brand.png" alt="by 0xZorro" width="120"/>
-  </div>
-  <div>
-    <sub>© 2025 0xZorro</sub>
-  </div>
-</p>
+<div align="center">
+  <img src="brand.png" alt="by 0xZorro" width="120"/>
+  <br/>
+  <sub>© 2025 0xZorro</sub>
+</div>
 
 ---
 

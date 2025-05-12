@@ -2,6 +2,10 @@
   <img src="Banner.png" alt="zfileprotect" width="300"/>
 </p>
 
+<p align="right">
+  <a href="./README_EN.md">Switch to English version</a>
+</p>
+
 # zfileprotect
 
 **zfileprotect** ist ein Python-Tool zum Schutz von Word-, PDF- und Excel-Dateien mit einem Passwort.  
